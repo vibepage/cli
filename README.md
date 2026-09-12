@@ -3,7 +3,7 @@
 Install:
 
 ```bash
-curl -fsSL https://get.vibepage.cloud/install.sh | bash
+curl -fsSL https://github.com/vibepage/cli/releases/latest/download/install.sh | bash
 ```
 
 Releases and binaries are published here. The hosting control plane stays in a private repository.
